@@ -41,7 +41,7 @@
 ---
 
 ### 🎯 My Developer Journey
-> "I started coding in high school with C, which introduced me to the world of programming and sparked my interest in development. During my BCA studies, I gained a good understanding of web development, but I felt my knowledge wasn’t deep enough to build real-world applications. That’s when I decided to focus on mastering one core language—JavaScript. The more I explored it, the more I realized its versatility and potential in modern web development. This curiosity led me to dive into the MERN stack, where I could develop both frontend and backend applications, shaping my journey into full-stack development.""
+> "I started coding in high school with C, which introduced me to the world of programming and sparked my interest in development. During my BCA studies, I gained a good understanding of web development, but I felt my knowledge wasn’t deep enough to build real-world applications. That’s when I decided to focus on mastering one core language—JavaScript. The more I explored it, the more I realized its versatility and potential in modern web development. This curiosity led me to dive into the MERN stack, where I could develop both frontend and backend applications, This decision has shaped my journey into full-stack development, allowing me to build real-world applications and continuously expand my skills"
 
 **💡 Lessons Learned:**  
 
@@ -59,7 +59,7 @@
 
 ### 🏆 My Achievements
 - 🎯 Built *SckechSprear*, a full-stack e-commerce platform  
-- 🎤 Led seminars on APIs & Bluetooth Tech  
+- 🌐 Created responsive static websites of Netflix, Starbucks, and McDonald's
 - ✅ Nailed Admin & User features for my project  
 - 💻 Regularly crushing coding challenges  
 ---
