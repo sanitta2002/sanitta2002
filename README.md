@@ -1,8 +1,6 @@
 <h1 align="center">Hey there, I'm Sanitta Johnson! 👋</h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500" height="300" alt="Women coding with style">
-</p>
+
 
 <h3 align="center">🚀 Full Stack Developer | 💡 Tech Enthusiast | 📚 Lifelong Learner</h3>
 
