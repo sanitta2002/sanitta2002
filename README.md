@@ -7,13 +7,12 @@
 ---
 
 ### 🌟 About Me
-- 🔭 **Currently working on:** *SckechSprear* — an e-commerce platform for Marvel & Disney books  
-- 🌱 **Passionate about:** MERN Stack, JavaScript, and Web Development  
-- 🚀 **Experienced in:** Building scalable, user-friendly applications  
-- 💡 **Always exploring:** New tech and skill upgrades  
-- 🎯 **Goal:** Become a top-tier full-stack developer  
-- 💬 **Ask me about:** JavaScript, Node.js, MongoDB, or APIs  
-- ⚡ **Fun fact:** I once hunted a bug for hours... it was a missing semicolon! 😅  
+🌱 I'm passionate about the MERN Stack, JavaScript, and all things web development.
+🚀 I’ve built scalable and user-friendly web applications.
+💡 I love exploring new technologies and sharpening my skills.
+🎯 My goal is to become a top-tier full-stack developer.
+💬 Ask me about JavaScript, Node.js, MongoDB, or APIs — always happy to chat!
+⚡ Fun fact: I once spent hours fixing a bug... it was just a missing semicolon! 😄
 
 ---
 
@@ -65,7 +64,6 @@
 ### 🎮 Fun Facts About Me
 - 🎯 **Favorite Language:** JavaScript  
 - 🔥 **Hobbies:** Problem-solving, reading, tech exploration  
-- 📚 **Currently Reading:** *Atomic Habits* by James Clear  
 - 🎵 **Coding Jams:** Lo-fi beats all the way  
 - 🌍 **Travel Bug:** Obsessed with new places & cultures  
 - 🏆 **Coding Motto:** "Make it work, make it right, make it fast!"  
