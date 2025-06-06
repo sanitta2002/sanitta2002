@@ -8,10 +8,15 @@
 
 ### 🌟 About Me
 🌱 I'm passionate about the MERN Stack, JavaScript, and all things web development.
+
 🚀 I’ve built scalable and user-friendly web applications.
+
 💡 I love exploring new technologies and sharpening my skills.
+
 🎯 My goal is to become a top-tier full-stack developer.
+
 💬 Ask me about JavaScript, Node.js, MongoDB, or APIs — always happy to chat!
+
 ⚡ Fun fact: I once spent hours fixing a bug... it was just a missing semicolon! 😄
 
 ---
@@ -25,14 +30,6 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</p>
-
----
-
-### 🚀 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanitta2002&show_icons=true&theme=tokyonight&count_private=true" alt="Sanitta's GitHub Stats">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sanitta2002&theme=tokyonight" alt="Sanitta's Profile Summary">
 </p>
 
 ---
