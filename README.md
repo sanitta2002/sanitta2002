@@ -1,4 +1,8 @@
 <h1 align="center">Hey there, I'm Sanitta Johnson! 👋</h1>
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazloMXJhdWRiMHVjODZndmJkNGIwOWJsYXJ1OWU3c2JuejBhdHA1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" alt="Waving GIF">
+</p>
+
 
 <h3 align="center">🚀 Full Stack Developer | 💡 Tech Enthusiast | 📚 Lifelong Learner</h3>
 
